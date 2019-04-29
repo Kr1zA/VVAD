@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="imglab" targetName="imglab" />
+      <config projectName="imglab" targetName="dlib" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7a154bf-47fd-4a61-8da8-4ea95199b15e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../examples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../examples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/VVAD.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../examples/VVAD.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/train_shape_predictor_ex.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../examples/train_shape_predictor_ex.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="1081" column="50" selection-start-line="1081" selection-start-column="50" selection-end-line="1081" selection-end-column="50" />
+              <folding>
+                <element signature="e#1#26#0" expanded="true" />
+                <element signature="e#646#2152#0" />
+                <element signature="e#2247#3612#0" />
+                <element signature="e#3707#4864#0" />
+                <element signature="e#4959#5475#0" />
+                <element signature="e#5570#7812#0" />
+                <element signature="e#7907#8308#0" />
+                <element signature="e#8403#8781#0" />
+                <element signature="e#8876#9834#0" />
+                <element signature="e#9929#11756#0" />
+                <element signature="e#11851#16467#0" />
+                <element signature="e#16562#18598#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>libn</find>
+      <find>main</find>
+      <find>red</find>
+      <find>dra</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/README.txt" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/test.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="width" value="2562" />
+    <option name="height" value="1416" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="imglab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imglab" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="imglab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imglab" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="imglab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imglab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imglab" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="imglab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../zvuk/youtube" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmake-build-debug" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.imglab">
+    <configuration name="dlib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="imglab" TARGET_NAME="dlib" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="imglab" RUN_TARGET_NAME="imglab">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="imglab" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="27.xml" PASS_PARENT_ENVS_2="true" PROJECT_NAME="imglab" TARGET_NAME="imglab" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="imglab" RUN_TARGET_NAME="imglab">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.dlib" />
+      <item itemvalue="CMake Application.imglab" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7a154bf-47fd-4a61-8da8-4ea95199b15e" name="Default Changelist" comment="" />
+      <created>1550741646435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550741646435</updated>
+      <workItem from="1550741647631" duration="2596000" />
+      <workItem from="1550757390151" duration="2153000" />
+      <workItem from="1550849459465" duration="599000" />
+      <workItem from="1550859596477" duration="602000" />
+      <workItem from="1551078803316" duration="71000" />
+      <workItem from="1551078922734" duration="1910000" />
+      <workItem from="1551175966779" duration="148000" />
+      <workItem from="1551197438488" duration="676000" />
+      <workItem from="1551274113901" duration="660000" />
+      <workItem from="1551277064864" duration="85000" />
+      <workItem from="1551683784086" duration="1350000" />
+      <workItem from="1551795772561" duration="605000" />
+      <workItem from="1551798654239" duration="602000" />
+      <workItem from="1551882345085" duration="615000" />
+      <workItem from="1551952487564" duration="978000" />
+      <workItem from="1551973464691" duration="327000" />
+      <workItem from="1552581946638" duration="666000" />
+      <workItem from="1553083424721" duration="1779000" />
+      <workItem from="1553949359245" duration="1401000" />
+      <workItem from="1554810545419" duration="681000" />
+      <workItem from="1555016470772" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19117000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="2562" height="1416" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1734288" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24633205" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298647" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.328125" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3298647" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.24141519" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build/CMakeFiles/imglab.dir/build.make">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Copy (1) testing_with_face_landmarks.xml" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="1371" column="10" selection-start-line="1371" selection-start-column="10" selection-end-line="1371" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dlib/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12870">
+          <caret line="858" column="37" selection-start-line="858" selection-start-column="37" selection-end-line="858" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cluster.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="1081" column="50" selection-start-line="1081" selection-start-column="50" selection-end-line="1081" selection-end-column="50" />
+          <folding>
+            <element signature="e#1#26#0" expanded="true" />
+            <element signature="e#646#2152#0" />
+            <element signature="e#2247#3612#0" />
+            <element signature="e#3707#4864#0" />
+            <element signature="e#4959#5475#0" />
+            <element signature="e#5570#7812#0" />
+            <element signature="e#7907#8308#0" />
+            <element signature="e#8403#8781#0" />
+            <element signature="e#8876#9834#0" />
+            <element signature="e#9929#11756#0" />
+            <element signature="e#11851#16467#0" />
+            <element signature="e#16562#18598#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

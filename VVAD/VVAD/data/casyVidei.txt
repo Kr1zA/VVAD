@@ -1,0 +1,4 @@
+risoTraining
+58	111
+risoTest
+77	112	158	195	259	310
