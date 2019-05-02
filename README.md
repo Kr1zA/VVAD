@@ -1,7 +1,7 @@
 # VVAD - Video Voice Activity Detection
 
 * multiplatformova C++ kniznica pre detekciu reci
-* celkovy popis kniznice je v [diplomovej praci](https://github.com/Kr1zA/VVAD/blob/master/diplomka.pdf
+* celkovy popis kniznice je v [diplomovej praci](https://github.com/Kr1zA/VVAD/blob/master/diplomka.pdf)
 
 ### buildovanie:
 Hlavny Cmakelist sa nachadza vo [VVAD/VVAD/CMakeList](https://github.com/Kr1zA/VVAD/blob/master/VVAD/VVAD/CMakeLists.txt)
