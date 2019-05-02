@@ -1,7 +1,7 @@
 # VVAD - Video Voice Activity Detection
 
 * multiplatformova C++ kniznica pre detekciu reci
-* celkovy popis kniznice je v [diplomovej praci](https://github.com/Kr1zA/VVAD/blob/master/diplomka.PDF)
+* celkovy popis kniznice je v [diplomovej praci](https://github.com/Kr1zA/VVAD/blob/master/diplomka.pdf
 
 ### buildovanie:
 Hlavny Cmakelist sa nachadza vo [VVAD/VVAD/CMakeList](https://github.com/Kr1zA/VVAD/blob/master/VVAD/VVAD/CMakeLists.txt)
@@ -29,4 +29,4 @@ Upravil som render_face_detection.h aby vedelo zobrat nauceny model s:
 * 68 bodmi tvare - povodny model
 
 ### Dataset
-V zlozke [ibug_300W_large_face_landmark_dataset](https://github.com/Kr1zA/VVAD/tree/master/ibug_300W_large_face_landmark_dataset)sa nachadza upraveny dataset [300-W](https://ibug.doc.ic.ac.uk/resources/300-W_IMAVIS/)ktory bol pouzity na natrenovanie modelov detekcie bodov na tvari v zlozke [models](https://github.com/Kr1zA/VVAD/tree/master/VVAD/VVAD/data/models).
+V zlozke [ibug_300W_large_face_landmark_dataset](https://github.com/Kr1zA/VVAD/tree/master/ibug_300W_large_face_landmark_dataset) sa nachadza upraveny dataset [300-W](https://ibug.doc.ic.ac.uk/resources/300-W_IMAVIS/), ktory bol pouzity na natrenovanie modelov detekcie bodov na tvari v zlozke [models](https://github.com/Kr1zA/VVAD/tree/master/VVAD/VVAD/data/models).
