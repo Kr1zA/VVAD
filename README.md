@@ -6,12 +6,9 @@
 ### buildovanie:
 Hlavny Cmakelist sa nachadza vo [VVAD/VVAD/CMakeList](https://github.com/Kr1zA/VVAD/blob/master/VVAD/VVAD/CMakeLists.txt)
 
-Pri buildovani inak ako pomocou CMakelistov:
-* cmake .. -DUSE_SSE4_INSTRUCTIONS=ON
-    * (pomalsia optimalizacia)
-
-* cmake .. -DUSE_AVX_INSTRUCTIONS=ON
-    * (rychlejsia optimalizacia)
+* koli rychlosti je potrebne mat zapnutu oprimalizaciu :
+* -DUSE_AVX_INSTRUCTIONS=ON - rychlejsia optimalizacia, potrebny procesor aspon z roku 2011
+* -DUSE_SSE4_INSTRUCTIONS=ON - pomalsia optimalizacia, na starsich procesoroch
     
 Je potrebne mat nainstalovanu kniznicu OpenCV 3.4.5.
 
