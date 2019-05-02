@@ -11,7 +11,7 @@ Pri buildovani inak ako pomocou CMakelistov:
     * (pomalsia optimalizacia)
 
 * cmake .. -DUSE_AVX_INSTRUCTIONS=ON
-    * (rychaljsia optimalizacia)
+    * (rychlejsia optimalizacia)
     
 Je potrebne mat nainstalovanu kniznicu OpenCV 3.4.5.
 
