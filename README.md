@@ -12,8 +12,9 @@ Hlavny Cmakelist sa nachadza vo [VVAD/VVAD/CMakeList](https://github.com/Kr1zA/V
     
 Je potrebne mat nainstalovanu kniznicu OpenCV 3.4.5.
 
-### Pouzivanie
-Ak chceme pouzit namiesto videi obraz z kamery staci zmenit `VideoCapture cap(umiestnenieVidei + videa + "XXX.mp4");` na `VideoCapture cap(0);` a upravit zdrojak `testVVAD.cpp` tak aby posielal snimky neustale a nie po 33ms
+### Testovacia ukazka
+* subor [`VVAD/VVAD/VVAD/testVVAD.cpp`](https://github.com/Kr1zA/VVAD/blob/master/VVAD/VVAD/testVVAD.cpp) bol pouzity na testovanie kniznice
+* ak chceme pouzit namiesto videi obraz z kamery staci zmenit `VideoCapture cap(umiestnenieVidei + videa + "XXX.mp4");` na `VideoCapture cap(0);` a upravit zdrojak `testVVAD.cpp` tak aby posielal snimky neustale a nie po 33ms
 
 * metoda `FrameForLearningThreshold` urci prah, ktory sa nasledne pouziva na detekciu reci pomocou metody `Frame`
 * metoda Frame dava na vystup objekt triedy Output, teda (true/false - rec detegovana/nedetegovana, pocet tvari, pozicie tvari)
